@@ -1,3 +1,3 @@
 # MetaNinja
 
-![Certificate_META NINJA](https://user-images.githubusercontent.com/81981737/153480268-96a3af46-7dac-4c45-9435-9ba534e85fc1.jpg)
+![metaninja](https://user-images.githubusercontent.com/121312707/232295936-5da84e1e-8d38-4bdf-b43d-28ed401f43fe.png)
